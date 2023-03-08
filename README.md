@@ -29,13 +29,13 @@ THEN I am able to successfully create, update, and delete data in my database
 
 The following animations show examples of the application's API routes being tested in Insomnia Core.
 The first animation shows GET routes to return all categories, all products, and all tags being tested in Insomnia Core:
-[!Animation of API routes](./src/img/screen1.gif)
+![Animation of API routes](./src/img/screen1.gif)
 
 The second animation shows GET routes to return a single category, a single product, and a single tag being tested in Insomnia Core:
-[!Animation of API routes](./src/img/screen2.gif)
+![Animation of API routes](./src/img/screen2.gif)
 
 The final animation shows the POST, PUT, and DELETE routes for categories being tested in Insomnia Core:
-[!Animation of API routes](./src/img/screen3.gif)
+![Animation of API routes](./src/img/screen3.gif)
 
 ## Installation
 
